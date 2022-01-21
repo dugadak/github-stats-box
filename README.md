@@ -24,7 +24,7 @@
 4. Go to the **Actions** tab of your fork and click the "enable" button
 5. Edit the environment variables at the end of the file `.github/workflows/run.yml`
 
-    - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/bokub/`**`1cc900d92b9acc15786d7553b46a2cdf`**.
+    - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/bokub/`**`dac96fe003c22dba45bfc6a23632e8f1`**.
     - **ALL_COMMITS:** Boolean value, If `true` it will count all commits instead of last year commits
     - **K_FORMAT:** Boolean value, If `true`, large numbers values will be formatted with a "k", for example `1.5k`
 
